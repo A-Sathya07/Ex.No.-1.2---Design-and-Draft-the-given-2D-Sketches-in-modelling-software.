@@ -36,7 +36,11 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- 
- 
+ <img width="1155" height="797" alt="image" src="https://github.com/user-attachments/assets/784186f6-47b6-4e0d-9008-6527a3682b5a" />
+Name : A SATHYA NARAYANAN
+
+REF NO: 25016804
+
+
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
